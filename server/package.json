@@ -36,6 +36,7 @@
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
     "morgan": "^1.7.0",
+    "thinky": "^2.3.4",
     "winston": "^2.2.0"
   }
 }
